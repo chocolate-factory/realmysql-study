@@ -20,3 +20,4 @@
 
 ### 기타
 - [중간 회고](interim-review.md)
+- [마무리 회고](end-review.md)
